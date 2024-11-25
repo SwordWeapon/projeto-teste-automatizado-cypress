@@ -1,4 +1,6 @@
 # projeto-teste-automatizado-cypress
+
+aqui está tudo que foi aprendido na escola TAT, com Walmyr Silva e Filho
 - Como configurar um projeto Cypress do zero
 - Como organizar suites de testes e casos de teste
 - Como visitar páginas web
